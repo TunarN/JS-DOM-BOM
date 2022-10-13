@@ -1,0 +1,33 @@
+.input {
+  position: relative;
+  width: 300px;
+  height: 350px;
+  border: 1px solid black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 550px;
+  margin-top: 200px;
+}
+
+.input .input-center {
+  position: absolute;
+}
+
+.input .input-center input {
+  margin-top: 20px;
+  outline: none;
+}
+
+.input .button {
+  margin-top: 20px;
+}
+
+.input .button button {
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: yellow;
+  border: none;
+}
+/*# sourceMappingURL=stule.css.map */
